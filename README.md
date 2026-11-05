@@ -8,7 +8,7 @@ The dashboard provides an executive-level view of key business indicators, helpi
 
 ## Dashboard Preview
 
-![Commercial Sales and Profitability Dashboard](Screenshots/Excel_Dashboard.png)
+![Commercial Sales and Profitability Dashboard](https://github.com/Salugla/Superstore-Sales-Executive-Project/raw/main/Commercial%20Sales%20and%20Profitability%20Dashboard.png)
 
 ## Business Objectives
 
